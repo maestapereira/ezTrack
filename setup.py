@@ -1,4 +1,4 @@
-"""spiketools setup script."""
+"""ezTrack setup script."""
 
 import os
 from setuptools import setup, find_packages
@@ -31,7 +31,7 @@ setup(
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Science/Research',
         'Topic :: Scientific/Engineering',
-        'License :: OSI Approved :: Apache Software License',
+        'License :: OSI Approved :: GPL',
         'Operating System :: Microsoft :: Windows',
         'Operating System :: MacOS',
         'Operating System :: POSIX',
