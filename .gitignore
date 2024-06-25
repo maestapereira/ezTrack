@@ -1,0 +1,23 @@
+# Ignore cache files
+**/__pycache__/**
+
+# Ignore coverage file
+.coverage
+
+# Ignore temp file for linter output
+_lint.txt
+
+# Ignore test files
+*/tests/test_files/*
+
+# Ignore files generated for the documentation
+doc/_build/
+doc/auto_examples/
+doc/auto_tutorials/
+doc/generated/
+doc/requirements.txt
+
+# Ignore module build files
+dist/*
+build/*
+*.egg-info/*

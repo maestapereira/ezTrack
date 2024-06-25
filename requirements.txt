@@ -1,0 +1,14 @@
+opencv-python
+numpy
+matplotlib
+pandas
+pillow
+scipy
+tqdm
+holoviews
+ipython
+ipywidgets
+ipykernel
+hvplot
+jupyter
+setuptools
