@@ -1,6 +1,9 @@
 # Ignore cache files
 **/__pycache__/**
 
+# Ignore checkpoint files
+**/.ipynb_checkpoints/*
+
 # Ignore coverage file
 .coverage
 
