@@ -18,7 +18,7 @@ with open("requirements.txt") as requirements_file:
 setup(
     name = 'ezTrack',
     version = __version__,
-    description = 'Module for analyzing spiking data.',
+    description = 'Module for fast tracking.',
     long_description = long_description,
     long_description_content_type = 'text/x-rst',
     python_requires = '>=3.6',
